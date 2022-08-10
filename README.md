@@ -1,8 +1,11 @@
 1. Install Python 3 https://www.python.org/
 
+2. Install the Intel RealSense SDK https://github.com/IntelRealSense/librealsense/releases/tag/v2.50.0
+
 2. Install Steam and SteamVR https://store.steampowered.com/app/250820/SteamVR/
 
-3. install arduino IDE
+3. Install Arduino IDE
+NOTE: requirement for a microcontroller will be removed once the driver code is properly reworked
 
 4. upload supplied arduino.ino to a microcontroller capable of serial communication
 NOTE: requirement for a microcontroller will be removed once the driver code is properly reworked
