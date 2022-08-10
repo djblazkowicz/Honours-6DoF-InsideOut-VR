@@ -40,6 +40,8 @@ NOTE: requirement for a microcontroller will be removed once the driver code is 
 
 20. start vio_udp.py and wait until the script starts to output data in the console
 
+21. if any dependencies are missing, install them using pip or other python library manager tool
+
 20. open SteamVR
 
 21. once the VR holodeck has opened, press R to reset the orientation - this is required once to reorientate the system.
