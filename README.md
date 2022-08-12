@@ -26,3 +26,4 @@
 24. If any dependencies are missing, install them using pip or other python library manager tool.
 25. Open SteamVR.
 26. Once the VR holodeck has opened, press R to reset the orientation - this is required once to reorientate the system.
+27. You can repeat 23-26 with running DSOonWin\dso_dataset\launch.bat instead to see DSO in action with a dataset, but SteamVR will likely be crashing with the current driver build.
